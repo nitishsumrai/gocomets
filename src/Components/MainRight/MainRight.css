@@ -1,0 +1,63 @@
+#main-right {
+  width: 40%;
+  padding-left: 1.3em;
+  box-sizing: border-box;
+  height: auto;
+  /* background-color: green; */
+  display: inline-block;
+  /* flex-shrink: 1; */
+}
+/* #item-title {
+  /* padding: 0em 0.8em; */
+/* } */
+/* .review-info > * { */
+/* padding: 0em 0.5em; */
+/* } */
+.checked {
+  color: orange;
+}
+#review-info {
+  display: flex;
+  align-items: center;
+}
+#review-info > * {
+  margin: 0.5em;
+}
+.border {
+  border-left: 2px solid black;
+  height: 1em;
+}
+.black-anchor {
+  color: black;
+  text-decoration: underline;
+}
+.price {
+  color: rgb(0, 81, 255);
+}
+.product-info {
+  width: auto;
+  height: auto;
+  /* margin: ; */
+}
+.attr {
+  display: inline;
+  color: black;
+  font-size: 1.2em;
+}
+.value {
+  display: inline;
+  color: rgb(0, 81, 255);
+  font-size: 1.2em;
+}
+.product-details {
+  color: grey;
+}
+
+@media screen and (max-width: 700px) {
+  #main-right {
+    width: 100%;
+    padding-left: 0em;
+    /* height: 5em; */
+    /* background-color: black; */
+  }
+}

@@ -1,0 +1,35 @@
+.Prod-detail-container {
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: grey;
+}
+.input-container {
+  margin: 0em 0.8em;
+}
+.input-container > input {
+  color: grey;
+  padding: 0.5em;
+  border: 1px solid grey;
+  width: 100%;
+  margin-top: 1.2em;
+}
+.input-container > select {
+  color: grey;
+  padding: 0.5em;
+  border: 1px solid grey;
+  width: 100%;
+  margin-top: 1.2em;
+}
+
+.input-container label {
+  color: black;
+}
+.twice-width {
+  width: 30%;
+}
+.single-width {
+  width: 10%;
+}

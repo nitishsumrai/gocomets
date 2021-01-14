@@ -1,0 +1,19 @@
+.navbar {
+  border-top: 2px black solid;
+  border-bottom: 2px black solid;
+  padding: 1.5rem 0rem;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+#all-categories span {
+  padding: 0.5rem;
+}
+.like-search * {
+  padding: 0.5rem;
+}
+.right {
+}
