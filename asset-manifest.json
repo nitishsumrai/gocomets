@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/gocomet/static/css/main.e58d6c71.chunk.css",
-    "main.js": "/gocomet/static/js/main.95ddb288.chunk.js",
-    "main.js.map": "/gocomet/static/js/main.95ddb288.chunk.js.map",
-    "runtime-main.js": "/gocomet/static/js/runtime-main.c34c751e.js",
-    "runtime-main.js.map": "/gocomet/static/js/runtime-main.c34c751e.js.map",
-    "static/css/2.56b4a362.chunk.css": "/gocomet/static/css/2.56b4a362.chunk.css",
-    "static/js/2.9891ce3a.chunk.js": "/gocomet/static/js/2.9891ce3a.chunk.js",
-    "static/js/2.9891ce3a.chunk.js.map": "/gocomet/static/js/2.9891ce3a.chunk.js.map",
-    "index.html": "/gocomet/index.html",
-    "static/css/2.56b4a362.chunk.css.map": "/gocomet/static/css/2.56b4a362.chunk.css.map",
-    "static/css/main.e58d6c71.chunk.css.map": "/gocomet/static/css/main.e58d6c71.chunk.css.map",
-    "static/js/2.9891ce3a.chunk.js.LICENSE.txt": "/gocomet/static/js/2.9891ce3a.chunk.js.LICENSE.txt",
-    "static/media/notifications.css": "/gocomet/static/media/notification.c5d9251e.ttf"
+    "main.css": "/gocomets/static/css/main.e58d6c71.chunk.css",
+    "main.js": "/gocomets/static/js/main.95ddb288.chunk.js",
+    "main.js.map": "/gocomets/static/js/main.95ddb288.chunk.js.map",
+    "runtime-main.js": "/gocomets/static/js/runtime-main.6954a965.js",
+    "runtime-main.js.map": "/gocomets/static/js/runtime-main.6954a965.js.map",
+    "static/css/2.77023863.chunk.css": "/gocomets/static/css/2.77023863.chunk.css",
+    "static/js/2.9891ce3a.chunk.js": "/gocomets/static/js/2.9891ce3a.chunk.js",
+    "static/js/2.9891ce3a.chunk.js.map": "/gocomets/static/js/2.9891ce3a.chunk.js.map",
+    "index.html": "/gocomets/index.html",
+    "static/css/2.77023863.chunk.css.map": "/gocomets/static/css/2.77023863.chunk.css.map",
+    "static/css/main.e58d6c71.chunk.css.map": "/gocomets/static/css/main.e58d6c71.chunk.css.map",
+    "static/js/2.9891ce3a.chunk.js.LICENSE.txt": "/gocomets/static/js/2.9891ce3a.chunk.js.LICENSE.txt",
+    "static/media/notifications.css": "/gocomets/static/media/notification.c5d9251e.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.c34c751e.js",
-    "static/css/2.56b4a362.chunk.css",
+    "static/js/runtime-main.6954a965.js",
+    "static/css/2.77023863.chunk.css",
     "static/js/2.9891ce3a.chunk.js",
     "static/css/main.e58d6c71.chunk.css",
     "static/js/main.95ddb288.chunk.js"
